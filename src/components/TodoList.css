@@ -1,0 +1,22 @@
+.inputBtn > input {
+  padding: 10px;
+  outline: green;
+  border: 1px solid;
+}
+.inputBtn > button {
+  padding: 10px 10px;
+  margin-left: 10px;
+  outline: green;
+}
+.card {
+  margin: 5px auto;
+  background-color: white;
+  padding: 15px 15px;
+  max-width: 300px;
+  box-shadow: 0 0 12px #efefef;
+  display: flex;
+  justify-content: space-between;
+}
+body{
+  text-align: center;
+}

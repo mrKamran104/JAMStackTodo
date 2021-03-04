@@ -1,0 +1,17 @@
+{
+  "name": "todoList",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todoList/todoList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rana_kamran <mrkamran104@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-lambda": "^2.21.0",
+    "faunadb": "^4.1.1",
+    "graphql": "^15.5.0"
+  }
+}
